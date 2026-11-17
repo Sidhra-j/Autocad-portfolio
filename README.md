@@ -1,9 +1,11 @@
-<img width="1641" height="1346" alt="Batmobile_Blueprint_Landscape" src="https://github.com/user-attachments/assets/fab37433-21f2-4709-9d40-d1f5bcb9ce53" />## Autocad-portfolio 
+## AutoCAD Portfolio:
+
 Technical drawing created in AutoCAD Mechanical, starting with a detailed Batmobile blueprint recreation (2017).
 
 A detailed top-view recreation of a published Batmobile reference blueprint, completed as part of an AutoCAD (Mechanical) course and checked by the course instructor
 
 <img width="1641" height="1346" alt="Batmobile_Blueprint_Landscape" src="https://github.com/user-attachments/assets/13519492-cb55-42cd-a01e-e8d626562aae" />
+
 <img width="1859" height="1451" alt="Batmobile_Finished_Drawing_Landscape" src="https://github.com/user-attachments/assets/20053540-e02b-4ad0-9ab5-4f913e8b7701" />
 
 Starting with the units & limits, the scale is set to the desired unit.
