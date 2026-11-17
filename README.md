@@ -6,7 +6,9 @@ A detailed top-view recreation of a published Batmobile reference blueprint, com
 
 <img width="1641" height="1346" alt="Batmobile_Blueprint_Landscape" src="https://github.com/user-attachments/assets/13519492-cb55-42cd-a01e-e8d626562aae" />
 
+
 <img width="1859" height="1451" alt="Batmobile_Finished_Drawing_Landscape" src="https://github.com/user-attachments/assets/20053540-e02b-4ad0-9ab5-4f913e8b7701" />
+
 
 Starting with the units & limits, the scale is set to the desired unit.
 The different layers based on different parts are assigned. Once the layers have been created, each layer is selected based on the part that is to be drawn. This provides for clear distinction between different parts of the automobile.
